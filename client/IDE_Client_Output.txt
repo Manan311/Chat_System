@@ -1,0 +1,13 @@
+Trying to connect to the server
+Connection Established
+server message:Welcome
+Trying to connect to the server
+Connection Established
+Enter message to send: 
+i m client1
+Enter message to send: 
+i m client2
+hello client1
+hi client2
+Enter message to send: 
+hi client2
